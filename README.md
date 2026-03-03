@@ -17,7 +17,7 @@ Preventing negative stock transactions
 
 Generating business insights through interactive dashboards
 
-🛠 Technologies Used
+ Technologies Used
 
 Database: MySQL
 
